@@ -146,9 +146,9 @@ export default function YoshlarParlamentiAzolari() {
               <Link
                 key={member.id}
                 href={`/yoshlar-parlamenti-azolari/${member.id}`}
-                className="bg-white flex rounded-lg shadow-sm overflow-hidden h-52 hover:shadow-md transition"
+                className="bg-white flex rounded-lg shadow-sm overflow-hidden h-48 hover:shadow-md transition"
               >
-                <div className="relative w-44">
+                <div className="relative w-40">
                   <Image
                     src={member.image || "/placeholder.svg"}
                     alt={member.name}
@@ -156,9 +156,16 @@ export default function YoshlarParlamentiAzolari() {
                     objectFit="cover"
                   />
                 </div>
-                <div className="p-4">
+                <div className="p-4 flex flex-col gap-3">
                   <h3 className="text-lg font-bold mb-1">{member.name}</h3>
-                  <p className="text-blue-600">{member.region}</p>
+                  <div className="flex flex-col text-sm">
+                    <p className="font-semibold">Saylov okrugi</p>
+                    <p className="text-blue-600">{member.region}</p>
+                  </div>
+                  <div className="flex flex-col text-sm">
+                    <p className="font-semibold">Fraksiyaga a'zoligi</p>
+                    <p className="text-blue-600">{member.region}</p>
+                  </div>
                 </div>
               </Link>
             ))}

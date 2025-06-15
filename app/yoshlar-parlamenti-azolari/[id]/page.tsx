@@ -1,5 +1,5 @@
-import MemberInfo from "@/components/MemberInfo";
-import Sidebar from "@/components/Sidebar";
+import MemberInfo from "@/components/page-components/MemberInfo";
+import Sidebar from "@/components/page-components/RightSidebar";
 import { ArrowLeft } from "lucide-react";
 import Link from "next/link";
 import React from "react";
@@ -150,7 +150,11 @@ const MemberDetail = ({ params }: PageProps) => {
         </div>
 
         <div className="flex flex-col md:flex-row gap-8">
-          <MemberInfo member={member} />
+          {member ? (
+            <MemberInfo member={member} />
+          ) : (
+            <div className="text-lg">A'zo topilmadi.</div>
+          )}
           <Sidebar />
         </div>
       </div>

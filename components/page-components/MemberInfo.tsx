@@ -3,7 +3,29 @@ import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 
-const MemberInfo = ({ member }) => {
+interface Article {
+  id: string | number;
+  title: string;
+  image?: string;
+}
+
+interface Member {
+  name: string;
+  image?: string;
+  position?: string;
+  birthYear?: string | number;
+  birthPlace?: string;
+  nationality?: string;
+  education?: string;
+  university?: string;
+  specialization?: string;
+  degree?: string;
+  languages?: string;
+  email?: string;
+  articles?: Article[];
+}
+
+const MemberInfo = ({ member }: { member: Member }) => {
   return (
     <div className="md:w-3/4">
       <div className="bg-white rounded-lg shadow-sm overflow-hidden">

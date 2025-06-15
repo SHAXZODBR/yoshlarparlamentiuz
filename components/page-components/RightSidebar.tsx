@@ -1,15 +1,15 @@
 import Link from "next/link";
 import React from "react";
 
-const Sidebar = () => {
+const RightSidebar = () => {
   return (
-    <div className="md:w-1/4">
+    <div className="w-full lg:w-1/4">
       <div className="bg-blue-600 text-white rounded-lg overflow-hidden">
         <div className="p-4 border-b border-blue-500">
           <h2 className="font-bold">Parlament tarixi</h2>
         </div>
         <div className="p-4">
-          <ul className="space-y-2 text-sm">
+          <ul className="space-y-2">
             <li>
               <Link href="#" className="hover:underline">
                 Qonunchilik palatasi kengashi tarixi
@@ -57,4 +57,4 @@ const Sidebar = () => {
   );
 };
 
-export default Sidebar;
+export default RightSidebar;

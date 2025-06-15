@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
-import MemberInfo from "@/components/MemberInfo";
-import Sidebar from "@/components/Sidebar";
+import MemberInfo from "@/components/page-components/MemberInfo";
+import RightSidebar from "@/components/page-components/RightSidebar";
 
 interface PageProps {
   params: {
@@ -171,7 +171,7 @@ export default function MemberDetail({ params }: PageProps) {
           <MemberInfo member={member} />
 
           {/* Sidebar */}
-          <Sidebar />
+          <RightSidebar />
         </div>
       </div>
     </main>
