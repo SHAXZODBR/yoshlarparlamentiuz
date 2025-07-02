@@ -89,7 +89,7 @@ export default function YoshlarParlamentiAzolari() {
     },
     {
   id: 13,
-  name: "Bobojonov Sayidjon",
+  name: "Bobojonov Saidjon O‘tkirovich Sayidjon",
   region: "13-Buxoro viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/13.Bobojonov Sayidjon.jpg",
   fraction: "Eco"
@@ -99,342 +99,342 @@ export default function YoshlarParlamentiAzolari() {
   name: "Fayziyeva Fotima Toxir qizi",
   region: "14-Buxoro viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/14.Fayziyeva Fotima Toxir qizi.JPG",
-  fraction: "Eco"
+  fraction: "O‘zbekiston “Milliy tiklanish” demokratik partiyasi"
 },
 {
   id: 15,
   name: "Zarifova Sagina Siddik qizi",
   region: "15-Buxoro viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/15.Zarifova Sagina Siddik qizi.jpg",
-  fraction: "Eco"
+  fraction: "O‘zbekiston “Milliy tiklanish” demokratik partiyasi"
 },
 {
   id: 16,
   name: "Orzikulova Sevinch Jaloliddin qizi",
   region: "16-Jizzax viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/16.Orzikulova Sevinch Jaloliddin qizi.JPG",
-  fraction: "Eco"
+  fraction: "Milliy tiklanish demokratik partiyasi"
 },
 {
   id: 17,
   name: "Xakimova Sarvinoz Nodir qizi",
   region: "17-Jizzax viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/17.Xakimova Sarvinoz Nodir qizi.jpg",
-  fraction: "Eco"
+  fraction: "O‘zLiDeP"
 },
 {
   id: 18,
   name: "Turg‘unova Dilfuza G‘ulom qizi",
   region: "18-Jizzax viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/18.Turg‘unova Dilfuza G‘ulom qizi.jpg",
-  fraction: "Eco"
+  fraction: "O‘zbekiston XDP"
 },
 {
   id: 19,
   name: "Sanakulov O‘ktoy Muzrob o‘g‘li",
   region: "19-Navoiy viloyati",
   image: "/images/yoshlar parlamenti azolari rasmi/1/19. Sanakulov O‘ktoy Muzrob o‘g‘li.JPG",
-  fraction: "Eco"
+  fraction: "O‘zLiDeP"
 },
 {
   id: 20,
   name: "Bozorov Jasur Adizqulovich",
   region: "20-Navoiy viloyati",
   image: "",
-  fraction: "Eco"
+  fraction: "O‘zbekiston XDP"
 },
 {
   id: 21,
   name: "Erejepbayev Kuanishbek Tursunovich",
   region: "21-Navoiy viloyati",
   image: "/images/yoshlar parlamenti azolari rasmi/1/21. Erejepbayev Kuanishbek Tursunovich.JPG",
-  fraction: "Eco"
+  fraction: "Milliy tiklanish demokratik partiyasi"
 },
 {
   id: 22,
   name: "Solijonov Uchqunbek Sadriddinovich",
   region: "22-Namangan viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/22. Solijonov Uchqunbek Sadriddinovich.JPG",
-  fraction: "Eco"
+  fraction: "O‘zLiDeP"
 },
 {
   id: 23,
   name: "Ashuraliev Ikromjon Sadirddin o‘g‘li",
   region: "23-Namangan viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/23. Ashuraliev Ikromjon Sadirddin o‘g‘li.JPG",
-  fraction: "Eco"
+  fraction: "O‘zbekiston XDP"
 },
 {
   id: 24,
   name: "Sobitov Mirshod Isoqjon o‘g‘li",
   region: "24-Namangan viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/24. Sobitov Mirshod Isoqjon o‘g‘li.jpg",
-  fraction: "Eco"
+  fraction: "###"
 },
 {
   id: 25,
   name: "No‘monjonov Bunyod Baxtiyor o‘g‘li",
   region: "25-Namangan viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/25. No‘monjonov Bunyod Baxtiyor o‘g‘li.jpeg",
-  fraction: "Eco"
+  fraction: "O‘zLiDeP"
 },
 {
   id: 26,
   name: "Urunov Asadbek Davlatali o‘g‘li",
   region: "26-Namangan viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/26. Urunov Asadbek Davlatali o‘g‘li.JPG",
-  fraction: "Eco"
+  fraction: "O‘zLiDeP"
 },
 {
   id: 27,
   name: "Xolmirzayeva Odina Sherzod qizi",
   region: "27-Namangan viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/27. Xolmirzayeva Odina Sherzod qizi.jpg",
-  fraction: "Eco"
+  fraction: "###"
 },
 {
   id: 28,
   name: "Amrullayev Azizbek Oybekovich",
   region: "28-Samarqand viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/28. Amrullayev Azizbek Oybekovich.JPEG",
-  fraction: "Eco"
+  fraction: "O‘zLiDeP"
 },
 {
   id: 29,
   name: "Jumayeva Sevara Samandar qizi",
   region: "29-Samarqand viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/29. Jumayeva Sevara Samandar qizi.JPG",
-  fraction: "Eco"
+  fraction: "Milliy tiklanish demokratik partiyasi"
 },
 {
   id: 30,
   name: "Ochilov Islombek Bahriddin o‘g‘li",
   region: "30-Samarqand viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/30. Ochilov Islombek Bahriddin o‘g‘li.JPG",
-  fraction: "Eco"
+  fraction: "###"
 },
 {
   id: 31,
   name: "Hasanov Khurshedjon Zafarjonovich",
   region: "31-Samarqand viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/31. Hasanov Khurshedjon Zafarjonovich.jpg",
-  fraction: "Eco"
+  fraction: "O‘zLiDeP"
 },
 {
   id: 32,
   name: "Orifjonov Dalerjon Rustamovich",
   region: "32-Samarqand viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/32. Orifjonov Dalerjon Rustamovich.JPG",
-  fraction: "Eco"
+  fraction: "O‘zLiDeP"
 },
 {
   id: 33,
   name: "Mardonov Muhammad Sanjar o‘g‘li",
   region: "33-Samarqand viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/33. Mardonov Muhammad Sanjar o‘g‘li.JPG",
-  fraction: "Eco"
+  fraction: "O‘zMTDP"
 },
 {
   id: 34,
   name: "Suyarov Komiljon Sattarovich",
   region: "34-Samarqand viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/34. Komiljon Suyarov.JPG",
-  fraction: "Eco"
+  fraction: "O‘zLiDeP"
 },
 {
   id: 35,
   name: "Muradillaeva Sevinch Sohibjon qizi",
   region: "35-Samarqand viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/35. Muradillaeva Sevinch Sohibjon qizi.JPG",
-  fraction: "Eco"
+  fraction: "O‘zLiDeP"
 },
 {
   id: 36,
   name: "Irisqulova Kamola Normat qizi",
   region: "36-Sirdaryo viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/36. Irisqulova Kamola Normat qizi.JPG",
-  fraction: "Eco"
+  fraction: "###"
 },
 {
   id: 37,
   name: "Asatullayev Otabek Khayrulla o‘g‘li",
   region: "37-Sirdaryo viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/37. Asatulayev Otabek.JPG",
-  fraction: "Eco"
+  fraction: "O‘zLiDeP"
 },
 {
   id: 38,
   name: "Shavkat Abdug‘afforov Komilovich",
   region: "38-Surxondaryo viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/38. Shavkat Abdug‘afforov Komilovich.JPG",
-  fraction: "Eco"
+  fraction: "Adolat SDP"
 },
 {
   id: 39,
   name: "Abdurazzoqova Ruxshona Ilhomjon qizi",
   region: "39-Surxondaryo viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/39. Abdurazzoqova Ruxshona Ilhomjon qizi.png",
-  fraction: "Eco"
+  fraction: "O‘zLiDeP"
 },
 {
   id: 40,
   name: "Ashurova Maftuna Ortik qizi",
   region: "40-Surxondaryo viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/40. Ashurova Maftuna Ortik qizi.jpg",
-  fraction: "Eco"
+  fraction: "O‘zLiDeP"
 },
 {
   id: 41,
   name: "Zulqaynarov Sarvar Alisherovich",
   region: "41-Surxondaryo viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/41. Zulqaynarov Sarvar Alisherovich.jpg",
-  fraction: "Eco"
+  fraction: "Milliy tiklanish demokratik partiyasi"
 },
 {
   id: 42,
   name: "Mamadiyev Islom Mamatmusa o‘g‘li",
   region: "42-Surxondaryo viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/42. Mamadiyev Islom Mamatmusa o‘g‘li.JPG",
-  fraction: "Eco"
+  fraction: "O‘zbekiston Xalq demokratik partiyasi"
 },
 {
   id: 43,
   name: "Nurullaeva Laylo Khayrullo qizi",
   region: "43-Surxondaryo viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/43. Nurullaeva Laylo Khayrullo qizi.JPG",
-  fraction: "Eco"
+  fraction: "Milliy tiklanish demokratik partiyasi"
 },
 {
   id: 44,
   name: "Asrorov Zafar Husniddin o‘g‘li",
   region: "44-Toshkent viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/44. Asrorov Zafar Husniddin o‘g‘li.JPG",
-  fraction: "Eco"
+  fraction: "O‘zLiDeP"
 },
 {
   id: 45,
   name: "Maxambatqulova Sabrina Abulqosim qizi",
   region: "45-Toshkent viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/45. Maxambatqulova Sabrina Abulqosim qizi.jpg",
-  fraction: "Eco"
+  fraction: "O‘zbekiston XDP"
 },
 {
   id: 46,
   name: "Abduqahhorov Bekzod O‘tkir o‘g‘li",
   region: "46-Toshkent viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/46. Abduqahhorov Bekzod O‘tkir o‘g‘li.jpg",
-  fraction: "Eco"
+  fraction: "O‘zLiDeP"
 },
 {
   id: 47,
   name: "Abdumajitov Muslim Mirmaqsud o‘g‘li",
   region: "47-Toshkent viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/47. Abdumajitov Muslim Mirmaqsud o‘g‘li.jpg",
-  fraction: "Eco"
+  fraction: "O‘zbekiston Ekologik partiyasi"
 },
 {
   id: 48,
   name: "Sobirov Umarjon Umid o‘g‘li",
   region: "48-Toshkent viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/48. Sobirov Umarjon Umid o‘g‘li.jpg",
-  fraction: "Eco"
+  fraction: "Adolat sotsial-demokratik partiyasi"
 },
 {
   id: 49,
-  name: "Abdulhaev Javohir Tahirovich.jpg",
+  name: "Abdulxayev Javohirbek Taxirovich",
   region: "49-Toshkent viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/49. Abdulhaev Javohir Tahirovich.jpg",
-  fraction: "Eco"
+  fraction: "Milliy tiklanish demokratik partiyasi"
 },
 {
   id: 50,
   name: "Arabxonova Munisaxon Hojiakbarxon qizi",
   region: "50-Toshkent viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/50. Arabxonova Munisaxon Hojiakbarxon qizi.JPG",
-  fraction: "Eco"
+  fraction: "Milliy tiklanish demokratik partiyasi"
 },
 {
   id: 51,
   name: "Rahimov Islomjon Shavkatjon o‘g‘li",
   region: "51-Farg‘ona viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/51. Rahimov Islomjon Shavkatjon o‘g‘li.jpg",
-  fraction: "Eco"
+  fraction: "O‘zLiDeP"
 },
 {
   id: 52,
   name: "Toshmatov Dilmurod Fazliddin o‘g‘li",
   region: "52-Farg‘ona viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/52. Toshmatov Dilmurod Fazliddin o‘g‘li.JPG",
-  fraction: "Eco"
+  fraction: "###"
 },
 {
   id: 53,
   name: "Qodirova Sevaraxon Zoyirjon qizi",
   region: "53-Farg‘ona viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/53. Qodirova Sevaraxon Zoyirjon qizi.JPG",
-  fraction: "Eco"
+  fraction: "O‘zLiDeP"
 },
 {
   id: 54,
   name: "O‘ktamov Shohruh Ulug‘bek o‘g‘li",
   region: "54-Farg‘ona viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/54. O‘ktamov Shohruh Ulug‘bek o‘g‘li.JPG",
-  fraction: "Eco"
+  fraction: "O‘zbekiston XDP"
 },
 {
   id: 55,
   name: "Dilmurodov Dilmurod Dilshodjon o‘g‘li",
   region: "55-Farg‘ona viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/55. Dilmurodov Dilmurod.JPG",
-  fraction: "Eco"
+  fraction: "O‘zLiDeP"
 },
 {
   id: 56,
   name: "Sirojiddinov Ayubxon Akmaljon o‘g‘li",
   region: "56-Farg‘ona viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/56. Sirojiddinov Ayubxon Akmaljon o‘g‘li.JPG",
-  fraction: "Eco"
+  fraction: "Milliy tiklanish demokratik partiyasi"
 },
 {
   id: 57,
   name: "Abdulaziz Abdurazzoqov Akbarjon o‘g‘li",
   region: "57-Farg‘ona viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/57. Abdulaziz Abdurazzoqov Akbarjon o‘g‘li.jpg",
-  fraction: "Eco"
+  fraction: "O‘zLiDeP"
 },
 {
   id: 58,
-  name: "Butahonov Ziyodulla Zoyirjon o‘g‘li",
+  name: "Butahonov Ziyodulla Zoirjon o‘g‘li",
   region: "58-Farg‘ona viloyati saylov okrugi",
   image: "",
-  fraction: "Eco"
+  fraction: "O‘zLiDeP"
 },
 {
   id: 59,
   name: "Yarasheva Aziza Alisher qizi",
   region: "59-Xorazm viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/59. Yarasheva Aziza Alisher qizi.JPG",
-  fraction: "Eco"
+  fraction: "O‘zLiDeP"
 },
 {
   id: 60,
   name: "Bazarbayev Sardor Urinboevich",
   region: "60-Xorazm viloyati saylov okrugi",
   image: "/images/yoshlar parlamenti azolari rasmi/1/60. Sardor Bazarbayev.jpg",
-  fraction: "Eco"
+  fraction: "O‘zLiDeP"
 },
 {
   id: 61,
   name: "Sharifboev Bunyod Azamat o‘g‘li",
   region: "61-Xorazm viloyati saylov okrugi",
-  image: "/images/yoshlar parlamenti azolari rasmi/1/61. Erkinboyev Muhammadaziz Xurramovich.jpg",
+  image: "/images/yoshlar parlamenti azolari rasmi/1/61. Bunyod Sharifboyev Azamat.png",
   fraction: "Eco"
 },
 {
   id: 62,
   name: "Nurullayev Nuriddin Farhod o‘g‘li",
   region: "62-Xorazm viloyati saylov okrugi",
-  image: "/images/yoshlar parlamenti azolari rasmi/1/62. Atajanov Izzatilla Baxronovich.jpg",
+  image: "/images/yoshlar parlamenti azolari rasmi/1/62. Nurullaev Nuriddin Farhod o‘g‘li.png",
   fraction: "Eco"
 },
 {
@@ -448,28 +448,28 @@ export default function YoshlarParlamentiAzolari() {
   id: 64,
   name: "Ahmadov Alisher Toshmurod o‘g‘li",
   region: "64-Toshkent shahar saylov okrugi",
-  image: "/images/yoshlar parlamenti azolari rasmi/1/64. Jo‘rayev Sherzod Murodovich.jpg",
+  image: "/images/yoshlar parlamenti azolari rasmi/1/64. Ahmadov Alisher Toshmurod o‘g‘li.JPG",
   fraction: "Eco"
 },
 {
   id: 65,
   name: "Oqmatov Serobbek Olimovich",
   region: "65-Toshkent shahar saylov okrugi",
-  image: "/images/yoshlar parlamenti azolari rasmi/1/65. Xudoyberganov Muhammadaziz Xusniddin o‘g‘li.jpg",
+  image: "/images/yoshlar parlamenti azolari rasmi/1/65. Oqmamatov Serobbek Olimovich.jpg",
   fraction: "Eco"
 },
 {
   id: 66,
   name: "Ismoilov Bobur Ikromxon o‘g‘li",
   region: "66-Toshkent shahar saylov okrugi",
-  image: "/images/yoshlar parlamenti azolari rasmi/1/66. Asadullayev Abdulaziz Oybek o‘g‘li.jpg",
+  image: "/images/yoshlar parlamenti azolari rasmi/1/66. Ismoilov Bobur Ikromxon o‘g‘li.JPG",
   fraction: "Eco"
 },
 {
   id: 67,
   name: "Shomurodov Shohjahon Shuxrat o‘g‘li",
   region: "67-Toshkent shahar saylov okrugi",
-  image: "/images/yoshlar parlamenti azolari rasmi/1/67. Yoqubov Behzodbek Bekzod o‘g‘li.jpg",
+  image: "/images/yoshlar parlamenti azolari rasmi/1/67. Shohjahon Shomurodov Shuhrat o‘g‘li.JPG",
   fraction: "Eco"
 },
 {
@@ -483,49 +483,49 @@ export default function YoshlarParlamentiAzolari() {
   id: 69,
   name: "Nasimova Yulduzxon Baxriddin qizi",
   region: "69-Toshkent shahar saylov okrugi",
-  image: "/images/yoshlar parlamenti azolari rasmi/1/69. G‘aybullayev Shaxbozbek Baxtiyor o‘g‘li.jpg",
+  image: "/images/yoshlar parlamenti azolari rasmi/1/69. Nasimova Yulduzxon Bahriddin qizi.png",
   fraction: "Eco"
 },
 {
   id: 70,
   name: "Ubaydullaeva Ismigul Shavkatillaevna",
   region: "70-Toshkent shahar saylov okrugi",
-  image: "/images/yoshlar parlamenti azolari rasmi/1/70. Komilova Muhlisa Ulug‘bek qizi.jpg",
+  image: "/images/yoshlar parlamenti azolari rasmi/1/70. Ubaydullaeva Ismigul Shavkatillayevna.jpg",
   fraction: "Eco"
 },
 {
   id: 71,
   name: "Kim Ernest Vitalevich",
   region: "71-Qoraqalpog‘iston Respublikasi saylov okrugi",
-  image: "/images/yoshlar parlamenti azolari rasmi/1/71. Qutlimuratov Biloliddin Botir o‘g‘li.jpg",
+  image: "/images/yoshlar parlamenti azolari rasmi/1/71. Kim Ernest.JPG",
   fraction: "Eco"
 },
 {
   id: 72,
   name: "Tog‘aymurodova Fotimaxon Shuxrat qizi",
   region: "72-Qoraqalpog‘iston Respublikasi saylov okrugi",
-  image: "/images/yoshlar parlamenti azolari rasmi/1/72. Imamova Iroda Ikromovna.jpg",
+  image: "/images/yoshlar parlamenti azolari rasmi/1/72. To‘gaymurodova Fotimaxon Shuhrat qizi.JPG",
   fraction: "Eco"
 },
 {
   id: 73,
   name: "Solijonov Sarvar Akmaljon o‘g‘li",
   region: "73-Qoraqalpog‘iston Respublikasi saylov okrugi",
-  image: "/images/yoshlar parlamenti azolari rasmi/1/73. Qo‘shqarova Surayyo Baxadirovna.jpg",
+  image: "/images/yoshlar parlamenti azolari rasmi/1/73. Solijonov Sarvar Akmaljon o‘g‘li.jpg",
   fraction: "Eco"
 },
 {
   id: 74,
   name: "Mahmudjonov Elyorjon Azizjon o‘g‘li",
   region: "74-Xorazm viloyati saylov okrugi",
-  image: "/images/yoshlar parlamenti azolari rasmi/1/74. Bazarbayev Sardor Urinboevich.jpg",
+  image: "/images/yoshlar parlamenti azolari rasmi/1/74. Mahmudjonov Elyorjon Azizjon o‘g‘li.JPG",
   fraction: "Eco"
 },
 {
   id: 75,
   name: "Shoumarov Imronbek Dilshod o‘g‘li",
   region: "75-Xorazm viloyati saylov okrugi",
-  image: "/images/yoshlar parlamenti azolari rasmi/1/75. Xo‘janov Sarvarbek Abrorbek o‘g‘li.jpg",
+  image: "/images/yoshlar parlamenti azolari rasmi/1/75. Shoumarov Imron Dilshod o‘g‘li.jpg",
   fraction: "Eco"
 },
 
